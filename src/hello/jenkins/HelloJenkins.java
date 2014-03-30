@@ -16,7 +16,7 @@ public class HelloJenkins {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello Jenkins");
+        System.out.println("Hello Jenkins")
     }
     
 }
